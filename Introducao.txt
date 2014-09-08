@@ -1,0 +1,16 @@
+Introdução
+
+	De acordo com o dicionário Aurélio um princípio é uma lei de
+	carácter geral que rege um conjunto de fenômenos verificados pela
+	exatidão de suas consequências. No desenvolvimento de software os
+	princípios são entendidos por seus usuários como uma característica
+	essencial de um sistema ou reflexão da finalidade do sistema, onde
+	sua operação ou uso seria impossível se um dos princípios fosse
+	ignorado.(GUIDO,1994)
+
+	Entender o contexto dos princípios da orientação a serviços é
+	essencial para compreender como uma arquitetura orientada a serviços
+	pode nos ajudar a projetar um software mais eficiente. Este artigo
+	busca discutir os princípios da orientação a serviço analisando sua
+	trajetória herdada da orientação de objetos, assim como sugerir uma
+	forma de analise e desenho que auxilie o alcance desses princípios.
