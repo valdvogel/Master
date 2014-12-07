@@ -1,0 +1,284 @@
+% This file was created with JabRef 2.10.
+% Encoding: MacRoman
+
+
+@Article{Lim2011,
+  Title                    = {JOGO E EDUCA\c{c}\~{a}O NO CONTEXTO DA REP\'{u}BLICA PLAT\^{o}NICA: ALGUMAS REFLEX\~{o}ES},
+  Author                   = {Leonardo Dias Avan\c{c}o and
+Jos\'{e} Milton de Lima},
+  Year                     = {2011},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.06.23}
+}
+
+@Misc{Batem2014,
+  Title                    = {The Value of Art},
+
+  Author                   = {Chris Bateman},
+  HowPublished             = {\url{http://onlyagame.typepad.com/only_a_game/2014/05/the-value-of-art.html}},
+  Month                    = {Junho},
+  Year                     = {2014},
+
+  Language                 = {English},
+  Owner                    = {jose},
+  Timestamp                = {2014.06.17},
+  Url                      = {\url{http://onlyagame.typepad.com/only_a_game/2014/05/the-value-of-art.html}}
+}
+
+@Misc{Batem2012,
+  Title                    = {Implicit Game Aesthetics},
+
+  Author                   = {Chris Bateman},
+  HowPublished             = {\url{http://blog.ihobo.com/2012/05/implicit-game-aesthetics.html}},
+  Month                    = {Maio},
+  Year                     = {2012},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.03},
+  Url                      = {\url{http://blog.ihobo.com/2012/05/implicit-game-aesthetics.html}}
+}
+
+@Misc{Batem2012a,
+  Title                    = {The Thin Play of Dear Esther},
+
+  Author                   = {Chris Bateman},
+  HowPublished             = {\url{http://blog.ihobo.com/2012/07/the-thin-play-of-dear-esther.html}},
+  Month                    = {Jullho},
+  Note                     = {Acessado em julho de 2014},
+  Year                     = {2012},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.04},
+  Url                      = {\url{http://blog.ihobo.com/2012/07/the-thin-play-of-dear-esther.html}}
+}
+
+@InProceedings{fedkiw:2001:VSO,
+  Title                    = {Visual Simulation of Smoke},
+  Author                   = {Ronald Fedkiw and Jos Stam and Henrik Wann Jensen},
+  Booktitle                = {Proceedings of SIGGRAPH 2001},
+  Year                     = {2001},
+  Editor                   = {Eugene Fiume},
+  Organization             = {ACM},
+  Pages                    = {15--22},
+  Publisher                = {ACM Press / ACM SIGGRAPH},
+  Series                   = {Computer Graphics Proceedings, Annual Conference Series}
+}
+
+@Article{Gursoy2013,
+  Title                    = {Game Worlds: A Study of Video Game Criticism},
+  Author                   = {Ayse Gursoy},
+  Journal                  = {MIT},
+  Year                     = {2013},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.06.18},
+  Url                      = {\url{http://cmsw.mit.edu/game-worlds-study-video-game-criticism/}}
+}
+
+@Misc{Holland:2006:CRH,
+  Title                    = {Citing references: the Harvard System},
+
+  Author                   = {M. Holland},
+  HowPublished             = {\url{www.bournemouth.ac.uk/library/using/harvardsystem.html}},
+  Month                    = {June},
+  Year                     = {2006}
+}
+
+@Book{Huizing1971,
+  Title                    = {Homo Ludens: A Study of the Play-Element in Culture},
+  Author                   = {Johan Huizinga},
+  Publisher                = {Beacon Press},
+  Year                     = {1971},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.06.23}
+}
+
+@InProceedings{Jobs95,
+  Title                    = {Retinex image processing: Improved fidelity to direct visual
+observation},
+  Author                   = {Daniel J Jobson and {Zia-ur} Rahman and Glenn A Woodell},
+  Booktitle                = {Proceedings of the IS\&T Fourth Color Imaging Conference: Color
+Science, Systems, and Applications},
+  Year                     = {1995},
+  Pages                    = {124--125},
+  Volume                   = {4}
+}
+
+@Misc{Juul2007,
+  Title                    = {Without a goal},
+
+  Author                   = {Jesper Juul},
+  HowPublished             = {\url{http://www.jesperjuul.net/text/withoutagoal/}},
+  Note                     = {Acessado em julho de 2014},
+  Year                     = {2007},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.04}
+}
+
+@PhdThesis{kartch:2000:ERA,
+  Title                    = {Efficient Rendering and Compression for Full-Parallax Computer-Generated Holographic Stereograms},
+  Author                   = {Daniel Kartch},
+  School                   = {Cornell University},
+  Year                     = {2000}
+}
+
+@Misc{notes2002,
+  Title                    = {Global Illumination in Production},
+
+  Author                   = {H. Landis},
+  HowPublished             = {ACM SIGGRAPH 2002 Course \#16 Notes},
+  Month                    = {July},
+  Year                     = {2002}
+}
+
+@InProceedings{levoy:2000:TDM,
+  Title                    = {The Digital Michelangelo Project},
+  Author                   = {Marc Levoy and Kari Pulli and Brian Curless and Szymon Rusinkiewicz and David Koller and Lucas Pereira and Matt Ginzton and Sean Anderson and James Davis and Jeremy Ginsberg and Jonathan Shade and Duane Fulk},
+  Booktitle                = {Proceedings of SIGGRAPH 2000},
+  Year                     = {2000},
+
+  Address                  = {New York},
+  Editor                   = {Kurt Akeley},
+  Organization             = {ACM},
+  Pages                    = {131--144},
+  Publisher                = {ACM Press / ACM SIGGRAPH},
+  Series                   = {Computer Graphics Proceedings, Annual Conference Series},
+
+  Abstract                 = {We describe a hardware and software system for digitizing the
+shape and color of large fragile objects under non-laboratory conditions.
+Our system employs laser triangulation rangefinders, laser
+time-of-flight rangefinders, digital still cameras, and a suite of software
+for acquiring, aligning, merging, and viewing scanned data.
+As a demonstration of this system, we digitized 10 statues by
+Michelangelo, including the well-known figure of David, two building
+interiors, and all 1,163 extant fragments of the Forma Urbis
+Romae, a giant marble map of ancient Rome. Our largest single
+dataset is of the David - 2 billion polygons and 7,000 color images.
+In this paper,we discuss the challenges we faced in building this
+system, the solutions we employed, and the lessons we learned. We
+focus in particular on the unusual design of our laser triangulation
+scanner and on the algorithms and software we developed for handling
+very large scanned models.},
+  Keywords                 = {3D scanning, rangefinding, sensor fusion, range images, mesh generation, reflectance and shading models, graphics systems, cultural heritage}
+}
+
+@Book{Morin1977,
+  Title                    = {Cultura de massas no s\'{e}culo XX},
+  Author                   = {Edgar Morin},
+  Publisher                = {Forense-Universit�ria},
+  Year                     = {1977},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.06.17}
+}
+
+@Article{Park:2006:DSI,
+  Title                    = {Discrete Sibson interpolation},
+  Author                   = {S. W. Park and L. Linsen and O. Kreylos and J. D. Owens and B. Hamann},
+  Journal                  = {IEEE Transactions on Visualization and Computer Graphics},
+  Year                     = {2006},
+
+  Month                    = mar # {\slash } # apr,
+  Number                   = {2},
+  Pages                    = {243--253},
+  Volume                   = {12}
+}
+
+@Book{parke:1996:CFA,
+  Title                    = {Computer Facial Animation},
+  Author                   = {Frederic I. Parke and Keith Waters},
+  Publisher                = {A. K. Peters},
+  Year                     = {1996}
+}
+
+@Article{Pellacini:2005:LAH,
+  Title                    = {Lpics: a Hybrid Hardware-Accelerated Relighting
+ Engine for Computer Cinematography},
+  Author                   = {Fabio Pellacini and Kiril Vidim{\v{c}}e and Aaron Lefohn
+ and Alex Mohr and Mark Leone and John Warren},
+  Journal                  = {ACM Transactions on Graphics},
+  Year                     = {2005},
+
+  Month                    = aug,
+  Number                   = {3},
+  Pages                    = {464--470},
+  Volume                   = {24}
+}
+
+@Book{Pressm2009,
+  Title                    = {Software Engineering: A Practitioner Approach},
+  Author                   = {Roger S. Pressman},
+  Publisher                = {McGraw-Hill Science},
+  Year                     = {2009},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.03}
+}
+
+@Misc{Room2009,
+  Title                    = {Dear Esther},
+
+  Author                   = {The Chinese Room},
+  HowPublished             = {\url{http://dear-esther.com/?page_id=2}},
+  Note                     = {Acessado em julho de 2014},
+  Year                     = {2009},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.03}
+}
+
+@Article{sako:2001:SSB,
+  Title                    = {Shape Similarity by Homotropic Deformation},
+  Author                   = {Yusaku Sako and Kikuo Fujimura},
+  Journal                  = {The Visual Computer},
+  Year                     = {2000},
+  Number                   = {1},
+  Pages                    = {47--61},
+  Volume                   = {16},
+
+  Publisher                = {Springer-Verlag}
+}
+
+@Book{Salen2003,
+  Title                    = {Rules of Play: Game Design Fundamentals},
+  Author                   = {Katie Salen and Eric Zimmerman},
+  Publisher                = {The MIT Press.},
+  Year                     = {2003},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.02}
+}
+
+@Article{SantosPetry2010,
+  Title                    = {Pode a filosofia auxiliar na compreens\~{a}o do que � Game?},
+  Author                   = {Arlete dos Santos Petry},
+  Journal                  = {SBGames},
+  Year                     = {2010},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.06.18}
+}
+
+@Book{Walton1990,
+  Title                    = {Mimesis as Make-Believe: On the Foundations of the Representational Arts},
+  Author                   = {Kendall L. Walton},
+  Publisher                = {Harvard University Press},
+  Year                     = {1990},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.02}
+}
+
+@Book{Wolf2003,
+  Title                    = {xThe Video Game Theory Reader},
+  Author                   = {Mark J.P. Wolf},
+  Publisher                = {Routledge},
+  Year                     = {2003},
+
+  Owner                    = {jose},
+  Timestamp                = {2014.07.03}
+}
+
