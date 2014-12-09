@@ -1,0 +1,61 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[ComputerWorld 2014]{ComputerWorld2014}
+\abntrefinfo{ComputerWorld}{COMPUTERWORLD}{2014}
+{COMPUTERWORLD. \emph{Gastos com TI atingir\~{a}o US125 bilhoes no Brasil em
+  2015}. 2014.
+  \url{http://computerworld.com.br/negocios/2014/10/28/gastos-com-ti-atingirao-us-125-bilhoes/-no-brasil-em-2015/}.}
+
+\bibitem[DSouza e Wills 1998]{DSouza1998}
+\abntrefinfo{DSouza e Wills}{DSOUZA; WILLS}{1998}
+{DSOUZA, D.~F.; WILLS, A.~C. \emph{Objects, Components, and Frameworks with UML
+  - The Catalysis Approach}. [S.l.]: ADDISON-WESLEY, 1998.}
+
+\bibitem[Erl 2005]{Erl2005}
+\abntrefinfo{Erl}{ERL}{2005}
+{ERL, T. \emph{Service-Oriented Architecture Concepts, Technology, and Design}.
+  [S.l.]: Prentice Hall, 2005.}
+
+\bibitem[Hammer e Champy 2009]{Hammer2009}
+\abntrefinfo{Hammer e Champy}{HAMMER; CHAMPY}{2009}
+{HAMMER, M.; CHAMPY, J. \emph{Reengineering the Corporation: Manifesto for
+  Business Revolution}. [S.l.]: HarperCollins e-books, 2009.}
+
+\bibitem[International 2013]{International2013}
+\abntrefinfo{International}{INTERNATIONAL}{2013}
+{INTERNATIONAL, T. S.~G. \emph{The Chaos Manifesto}. 2013.
+  \url{http://versionone.com/assets/img/files/ChaosManifesto2013.pdf}.}
+
+\bibitem[Lee, Chan e Lee 2006]{Lee2006}
+\abntrefinfo{Lee, Chan e Lee}{LEE; CHAN; LEE}{2006}
+{LEE, S.~P.; CHAN, L.~P.; LEE, E.~W. Web services implementation methodology
+  for soa application.
+\emph{IEEE International Conference on Industrial Informatics}, 2006.}
+
+\bibitem[Riemenschneider, Hardgrave e Davis 2002]{CynthiaKRiemenschneider2002}
+\abntrefinfo{Riemenschneider, Hardgrave e Davis}{RIEMENSCHNEIDER; HARDGRAVE;
+  DAVIS}{2002}
+{RIEMENSCHNEIDER, C.~K.; HARDGRAVE, B.~C.; DAVIS, F.~D. Explaining software
+  developer acceptance of methodologies: A comparison of five theoretical
+  models.
+\emph{IEEE TRANSACTIONS ON SOFTWARE ENGINEERING}, v.~28, n.~12, Dezembro 2002.
+Dispon{\'\i}vel em:
+  \url{http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1158287&url=http\%3A\%2F\%2Fieeexplore.ieee.org\%2Fiel5\%2F32\%2F25950\%2F01158287.pdf\%3Farnumber\%3D1158287}.}
+
+\bibitem[Rothenberger e Haines 2010]{Rothenberger2010}
+\abntrefinfo{Rothenberger e Haines}{ROTHENBERGER; HAINES}{2010}
+{ROTHENBERGER, M.; HAINES, M. How a service-oriented architecture may change
+  the software development process.
+\emph{ACM}, v.~53, n.~8, p. 135 -- 140, Agosto 2010.}
+
+\bibitem[Scheer 1998]{Scheer1998}
+\abntrefinfo{Scheer}{SCHEER}{1998}
+{SCHEER, A.~W. \emph{ARIS - Business Process Modeling}. [S.l.]: Springer,
+  1998.}
+
+\end{thebibliography}
